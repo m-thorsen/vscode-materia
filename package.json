@@ -12,7 +12,6 @@
 		"Themes"
 	],
 	"keywords": [],
-	"icon": "images/icon.png",
 	"contributes": {
 		"themes": [
 			{

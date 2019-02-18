@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "materia-contrast",
     "type": "dark",
-    "include": "./tokens.json",
+    "include": "./materia.json",
     "colors": {
         "tab.activeBorder": "#4285f4",
         "editorRuler.foreground": "#383838",

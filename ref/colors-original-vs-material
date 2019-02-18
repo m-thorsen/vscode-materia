@@ -1,0 +1,19 @@
+Ref: Original colors vs closest match in Material palette
+
+# Grays
+Darkest gray    (Comment)     546E7A    546E7A    Blue Gray 600
+Dark gray       (Comment+)    ?         607D8B    Blue Gray 500
+Medium gray     (?)           ?         90A4AE    Blue Gray 300
+Light gray      (Keys)        ?         B0BEC5    Blue Gray 200
+Lightest gray   (Variables)   ?         ECEFF1    Blue Gray 50
+
+# Colors
+Pink            (This)        FF5370    FF4081    Pink A100
+Red             (Tags)        F07178    E57373    Red 300
+Orange          (Argument)    F78C6C    FF9E80    Deep Orange A100
+Yellow          (Constant)    FFCB6B    FFCC80    Orange 200
+Green           (String)      C3E88D    AED581    Light Green 300
+Cyan            (Punct.)      89DDFF    80D8FF    Light Blue A100
+Blue            (Function)    82AAFF    8C9EFF    Indigo A100
+Pale blue       (Css prop)    B2CCD6    -         ?
+Purple          (Keyword)     C792EA    B388FF    Deep Purple A100
