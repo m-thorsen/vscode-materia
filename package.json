@@ -1,7 +1,7 @@
 {
 	"name": "vscode-materia",
 	"displayName": "Materia",
-	"description": "Neutral material theme",
+	"description": "A neutral material theme",
 	"version": "0.1.0",
 	"publisher": "m-thorsen",
 	"license": "MIT",
@@ -29,5 +29,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/m-thorsen/vscode-materia"
-	},
+	}
 }

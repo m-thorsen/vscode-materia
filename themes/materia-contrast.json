@@ -4,25 +4,17 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "tab.activeBorder": "#4285f4",
-        "editorRuler.foreground": "#383838",
-
-        "sideBar.background": "#2c2c2c",
-        "activityBar.background": "#2c2c2c",
-        "statusBar.background": "#2c2c2c",
-        "panel.background": "#2c2c2c",
-        "editorGroupHeader.tabsBackground": "#2c2c2c",
+        "editorRuler.foreground": "#323232",
 
         "editor.background": "#282828",
 
-        "editorGroupHeader.tabsBorder": "#212121b0",
-        "titleBar.border": "#212121b0",
-        "editorGroup.border": "#212121b0",
-        "sideBar.border": "#212121b0",
-        "panel.border": "#212121b0",
-        "statusBar.border": "#212121b0",
-        "editorHoverWidget.border": "#212121b0",
-		"editorSuggestWidget.border": "#212121b0",
-        "peekView.border": "#212121b0",
+        "titleBar.border": "#212121",
+        "editorGroup.border": "#212121",
+        "sideBar.border": "#212121",
+        "panel.border": "#212121",
+        "statusBar.border": "#212121",
+        "editorHoverWidget.border": "#212121",
+		"editorSuggestWidget.border": "#212121",
+        "peekView.border": "#212121",
     }
 }
