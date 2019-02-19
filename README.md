@@ -2,10 +2,11 @@
 
 Inspired by and derived from [Material Theme](https://github.com/equinusocio/material-theme), with a few additions and personal tweaks. 
 
-Made to fit [Materia GTK Theme](https://github.com/nana-4/materia-theme)
+This is a variation on [Material Basic](https://github.com/m-thorsen/vscode-material-mt),
+made to fit [Materia GTK Theme](https://github.com/nana-4/materia-theme),
+with a revamped color palette based on Google's Material palette (material.io)
 
 #### Tweaks/additions
-* Revamped color palette based on Google's Material palette (material.io)
 * Better support for PHP and Vue
 * Highlight current line number
 * Highlight current indent guide
@@ -15,3 +16,4 @@ Made to fit [Materia GTK Theme](https://github.com/nana-4/materia-theme)
 
 Workbench is of course fully themed.
 
+@todo Screenshots!
