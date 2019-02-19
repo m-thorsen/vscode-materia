@@ -1,10 +1,9 @@
 ## Materia Theme for VS Code
 
-Inspired by and derived from [Material Theme](https://github.com/equinusocio/material-theme), with a few additions and personal tweaks. 
-
+Inspired by and derived from [Material Theme](https://github.com/equinusocio/material-theme), with a few additions and personal tweaks.   
 This is a variation on [Material Basic](https://github.com/m-thorsen/vscode-material-mt),
-made to fit [Materia GTK Theme](https://github.com/nana-4/materia-theme),
-with a revamped color palette based on Google's Material palette (material.io)
+tailored to match [Materia GTK Theme](https://github.com/nana-4/materia-theme).  
+Token colors have been updated to closer match material.io
 
 #### Tweaks/additions
 * Better support for PHP and Vue
@@ -16,4 +15,5 @@ with a revamped color palette based on Google's Material palette (material.io)
 
 Workbench is of course fully themed.
 
-@todo Screenshots!
+![screenshot](./images/screenshot.png)
+

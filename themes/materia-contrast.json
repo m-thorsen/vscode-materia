@@ -5,16 +5,6 @@
     "include": "./materia.json",
     "colors": {
         "editorRuler.foreground": "#323232",
-
-        "editor.background": "#282828",
-
-        "titleBar.border": "#212121",
-        "editorGroup.border": "#212121",
-        "sideBar.border": "#212121",
-        "panel.border": "#212121",
-        "statusBar.border": "#212121",
-        "editorHoverWidget.border": "#212121",
-		"editorSuggestWidget.border": "#212121",
-        "peekView.border": "#212121",
+        "editor.background": "#232323",
     }
 }
