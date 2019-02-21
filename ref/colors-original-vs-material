@@ -8,12 +8,12 @@ Light gray      (Keys)        ?         BDBDBD    Gray 400
 Lightest gray   (Variables)   ?         EEEEEE    Gray 200
 
 # Colors
-Pink            (This)        FF5370    EC407A    Pink 400
+Pink            (This)        FF5370    FF4081    Pink A200
+Indigo          (Function)    82AAFF    82B1FF    Blue A100
 Red             (Tags)        F07178    E57373    Red 300
 Orange          (Argument)    F78C6C    FF8A65    Deep Orange 300
 Yellow          (Constant)    FFCB6B    FFCC80    Orange 200
 Green           (String)      C3E88D    AED581    Light Green 300
 Cyan            (Punct.)      89DDFF    80DEEA    Cyan 200
-Indigo          (Function)    82AAFF    82B1FF    Blue A100
 Pale blue       (Css prop)    B2CCD6    -         n/a
 Purple          (Keyword)     C792EA    CE93D8    Purple 200
