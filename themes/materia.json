@@ -2,7 +2,7 @@
     "$schema": "vscode://schemas/color-theme",
     "name": "materia",
     "type": "dark",
-    "include": "./tokens.json",
+    "include": "./tokens-dark.json",
     "colors": {
         // Bright blue #448AFF Blue A200
         "editorCursor.foreground": "#448AFF",
