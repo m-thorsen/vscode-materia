@@ -4,7 +4,12 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
+        // picked colors deviate in Gnome/electron 3.0:
+        // #2C2C2C => 282828,
+        // #282828 => 232323,
+        // #212121 => 1B1B1B
+
         "editorRuler.foreground": "#323232",
-        "editor.background": "#232323",
+        "editor.background": "#282828",
     }
 }
