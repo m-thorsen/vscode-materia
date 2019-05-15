@@ -76,6 +76,7 @@
                 "fontStyle": "",
             },
             "scope": [
+                "source.css entity.other.attribute-name",
             ]
         },
         {
