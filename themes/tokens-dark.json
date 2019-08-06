@@ -102,7 +102,7 @@
                 "meta.object-literal.key.js",
                 "text.html.markdown",
                 "punctuation.definition.list_item.markdown",
-                "markup.table"
+                "markup.table",
             ]
         },
         {
@@ -187,7 +187,6 @@
                 "markup.fenced_code.block.markdown",
                 "markup.inline.raw.string.markdown",
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ]
         },
         {
@@ -235,8 +234,6 @@
                 "text.html.markdown markup.inline.raw.markdown",
                 "string.other.link.description.title.markdown",
                 "beginning.punctuation.definition.list.markdown",
-                "source.json meta.structure.dictionary.json support.type.property-name.json",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ]
         },
         {
@@ -257,7 +254,6 @@
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
                 "string.other.link.title.markdown",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ]
         },
         {
@@ -281,7 +277,6 @@
                 "support.constant",
                 "entity.other.attribute-name",
                 "constant.other.reference.link.markdown",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ]
         },
         {
@@ -305,8 +300,6 @@
                 "markup.underline",
                 "markup.heading | markup.heading entity.name",
                 "markup.heading.markdown punctuation.definition.heading.markdown",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ]
         },
         {
@@ -328,7 +321,6 @@
                 "markup.bold markup.italic string",
                 "markup.italic markup.bold string",
                 "punctuation.definition.bold.markdown",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
             ]
         },
         {
@@ -346,7 +338,6 @@
                 "variable.language",
                 "markup.deleted",
                 "source.js constant.other.object.key.js string.unquoted.label.js",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ]
         },
     ]
