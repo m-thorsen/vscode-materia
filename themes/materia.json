@@ -20,6 +20,7 @@
         "button.background": "#448AFF50",
         "list.focusBackground": "#448AFF50",
         "list.activeSelectionBackground": "#448AFF50",
+        "inputOption.activeBackground": "#448AFF50",
 
         // Grays
         "activityBarBadge.foreground": "#FFFFFF",
