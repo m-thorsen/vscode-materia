@@ -104,6 +104,8 @@
 		"editorSuggestWidget.border": "#212121",
         "peekView.border": "#212121",
 
+        // Ignored/transparent
+        "statusBarItem.remoteBackground": "#00000000",
         "sideBarSectionHeader.background": "#00000000",
         "tab.activeBackground": "#00000000",
         "tab.border": "#00000000",
