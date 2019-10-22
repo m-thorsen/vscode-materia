@@ -35,6 +35,7 @@
         "titleBar.inactiveForeground": "#9E9E9E",
         "sideBar.foreground": "#9E9E9E",
         "statusBar.foreground": "#9E9E9E",
+        "statusBarItem.remoteForeground": "#9E9E9E",
         "activityBar.foreground": "#9E9E9E",
         "editorLineNumber.activeForeground": "#9E9E9E",
 
