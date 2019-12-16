@@ -11,5 +11,6 @@
 
         "editorRuler.foreground": "#323232",
         "editor.background": "#282828",
+        "terminal.background": "#282828"
     }
 }
