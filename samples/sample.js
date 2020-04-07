@@ -3,6 +3,12 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
+/**
+ * This is a block comment
+ *
+ * @param {String} arg
+ * @returns {Object}
+ */
 function dummy(arg) {
     const ary = [arg, 'string'];
 

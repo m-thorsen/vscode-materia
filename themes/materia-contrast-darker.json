@@ -25,6 +25,8 @@
         "statusBarItem.hoverBackground": "#252525",
 
         "editor.background": "#212121",
-        "terminal.background": "#212121"
+        "terminal.background": "#212121",
+
+        "editor.lineHighlightBackground": "#181818",
     }
 }

@@ -124,7 +124,7 @@
         {
             "name": "Medium gray",
             "settings": {
-                "foreground": "#9E9E9E"
+                "foreground": "#999999"
             },
             "scope": [
                 "support.type.vendored.property-name.css",
@@ -134,7 +134,14 @@
                 "markup.quote markup.italic string",
                 "markup.quote markup.bold",
                 "markup.quote markup.bold punctuation.definition.bold.markdown",
-                "markup.quote markup.bold string"
+                "markup.quote markup.bold string",
+                "comment.block.documentation.js punctuation.definition.block.tag.jsdoc",
+                "comment.block.documentation.js entity.name.type.instance.jsdoc",
+                "comment.block.documentation.js storage.type.class.jsdoc",
+                "comment.block.documentation.js variable.other.jsdoc",
+                "comment.block.documentation.phpdoc.php punctuation",
+                "comment.block.documentation.phpdoc.php support",
+                "comment.block.documentation.phpdoc.php keyword",
             ]
         },
         {
@@ -148,27 +155,9 @@
                 "markup.quote punctuation.definition.blockquote.markdown",
                 "variable.language.fenced.markdown",
                 "meta.separator",
-                "punctuation.definition.block.tag.jsdoc",
-                "entity.name.type.instance.jsdoc",
                 "punctuation.definition.bracket",
-                "variable.other.jsdoc",
-                "storage.type.class.jsdoc",
-                "comment.block.documentation.phpdoc.php keyword.other.phpdoc.php",
-                "comment.block.documentation.phpdoc.php punctuation.separator.inheritance.php",
-                "comment.block.documentation.phpdoc.php support.other.namespace.php",
-                "comment.block.documentation.phpdoc.php support.class",
-                "comment.block.documentation.phpdoc.php keyword.other"
-            ]
-        },
-        {
-            "name": "Darkest gray",
-            "settings": {
-                "foreground": "#616161"
-            },
-            "scope": [
+                "punctuation.definition.comment",
                 "comment",
-                "meta.other.type.phpdoc.php punctuation",
-                "punctuation.definition.comment"
             ]
         },
         {
