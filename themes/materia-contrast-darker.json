@@ -1,0 +1,30 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "materia-ciontrast-darker",
+    "type": "dark",
+    "include": "./materia.json",
+    "colors": {
+        // picked colors deviate in Gnome/electron 3.0:
+        // #252525 => 282828,
+        // #282828 => 232323,
+        // #212121 => 1B1B1B
+
+        "editorRuler.foreground": "#323232",
+        "titleBar.activeBackground": "#323232",
+        "titleBar.inactiveBackground": "#323232",
+
+        "statusBar.noFolderBackground": "#252525",
+        "editorWidget.background": "#252525",
+        "editorWidget.border": "#252525",
+        "activityBar.background": "#252525",
+        "sideBar.background": "#252525",
+        "statusBar.background": "#252525",
+        "panel.background": "#252525",
+        "editorGroupHeader.tabsBackground": "#252525",
+        "editorGroup.emptyBackground": "#252525",
+        "statusBarItem.hoverBackground": "#252525",
+
+        "editor.background": "#212121",
+        "terminal.background": "#212121"
+    }
+}
