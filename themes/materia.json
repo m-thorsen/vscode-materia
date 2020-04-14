@@ -27,12 +27,16 @@
         "badge.foreground": "#FFFFFF",
         "tab.activeBorder": "#FFFFFF",
 
-        "editor.foreground": "#BDBDBD",
         "tab.activeForeground": "#E0E0E0",
+
+        "editor.foreground": "#BDBDBD",
         "titleBar.activeForeground": "#BDBDBD",
         "input.foreground": "#BDBDBD",
+        "list.activeSelectionForeground": "#BDBDBD",
+        "list.focusForeground": "#BDBDBD",
 
         "titleBar.inactiveForeground": "#9E9E9E",
+        "quickInput.foreground": "#9E9E9E",
         "sideBar.foreground": "#9E9E9E",
         "statusBar.foreground": "#9E9E9E",
         "statusBarItem.remoteForeground": "#9E9E9E",

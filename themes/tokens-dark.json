@@ -135,13 +135,6 @@
                 "markup.quote markup.bold",
                 "markup.quote markup.bold punctuation.definition.bold.markdown",
                 "markup.quote markup.bold string",
-                "comment.block.documentation.js punctuation.definition.block.tag.jsdoc",
-                "comment.block.documentation.js entity.name.type.instance.jsdoc",
-                "comment.block.documentation.js storage.type.class.jsdoc",
-                "comment.block.documentation.js variable.other.jsdoc",
-                "comment.block.documentation.phpdoc.php punctuation",
-                "comment.block.documentation.phpdoc.php support",
-                "comment.block.documentation.phpdoc.php keyword",
             ]
         },
         {
@@ -158,6 +151,13 @@
                 "punctuation.definition.bracket",
                 "punctuation.definition.comment",
                 "comment",
+                "comment.block.documentation.js punctuation.definition.block.tag.jsdoc",
+                "comment.block.documentation.js entity.name.type.instance.jsdoc",
+                "comment.block.documentation.js storage.type.class.jsdoc",
+                "comment.block.documentation.js variable.other.jsdoc",
+                "comment.block.documentation.phpdoc.php punctuation",
+                "comment.block.documentation.phpdoc.php support",
+                "comment.block.documentation.phpdoc.php keyword",
             ]
         },
         {
