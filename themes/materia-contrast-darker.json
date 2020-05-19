@@ -4,29 +4,24 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        // picked colors deviate in Gnome/electron 3.0:
-        // #252525 => 282828,
-        // #282828 => 232323,
-        // #212121 => 1B1B1B
+        "editorRuler.foreground": "#2C2C2C",
+        "titleBar.activeBackground": "#2C2C2C",
+        "titleBar.inactiveBackground": "#2C2C2C",
 
-        "editorRuler.foreground": "#323232",
-        "titleBar.activeBackground": "#323232",
-        "titleBar.inactiveBackground": "#323232",
+        "statusBar.noFolderBackground": "#232323",
+        "editorWidget.background": "#232323",
+        "editorWidget.border": "#232323",
+        "activityBar.background": "#232323",
+        "sideBar.background": "#232323",
+        "statusBar.background": "#232323",
+        "panel.background": "#232323",
+        "editorGroupHeader.tabsBackground": "#232323",
+        "editorGroup.emptyBackground": "#232323",
+        "statusBarItem.hoverBackground": "#232323",
 
-        "statusBar.noFolderBackground": "#252525",
-        "editorWidget.background": "#252525",
-        "editorWidget.border": "#252525",
-        "activityBar.background": "#252525",
-        "sideBar.background": "#252525",
-        "statusBar.background": "#252525",
-        "panel.background": "#252525",
-        "editorGroupHeader.tabsBackground": "#252525",
-        "editorGroup.emptyBackground": "#252525",
-        "statusBarItem.hoverBackground": "#252525",
+        "editor.background": "#181818",
+        "terminal.background": "#181818",
 
-        "editor.background": "#212121",
-        "terminal.background": "#212121",
-
-        "editor.lineHighlightBackground": "#181818",
+        "editor.lineHighlightBackground": "#111111",
     }
 }
