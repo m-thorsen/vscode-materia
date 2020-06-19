@@ -16,11 +16,13 @@
         "button.hoverBackground": "#448AFF",
 
         // Dark blue #4285f450 Blue A200 @32%
-		"selection.background": "#448AFF50",
         "button.background": "#448AFF50",
         "list.focusBackground": "#448AFF50",
         "list.activeSelectionBackground": "#448AFF50",
         "inputOption.activeBackground": "#448AFF50",
+
+		"selection.background": "#448AFF50",
+        "editor.selectionBackground": "#448AFF50",
 
         // Grays
         "activityBarBadge.foreground": "#FFFFFF",
@@ -28,6 +30,9 @@
         "tab.activeBorder": "#FFFFFF",
 
         "tab.activeForeground": "#E0E0E0",
+        "tab.unfocusedActiveForeground": "#BDBDBD",
+        "tab.inactiveForeground": "#9E9E9E",
+        "tab.unfocusedInactiveForeground": "#757575",
 
         "editor.foreground": "#BDBDBD",
         "titleBar.activeForeground": "#BDBDBD",
@@ -43,7 +48,6 @@
         "activityBar.foreground": "#9E9E9E",
         "editorLineNumber.activeForeground": "#9E9E9E",
 
-        "tab.inactiveForeground": "#757575",
         "input.placeholderForeground": "#757575",
 
         "gitDecoration.ignoredResourceForeground": "#616161",
@@ -55,7 +59,6 @@
         "editor.selectionHighlightBorder": "#424242",
         "scrollbarSlider.activeBackground": "#424242",
         "scrollbarSlider.hoverBackground": "#424242",
-        "editor.selectionBackground": "#383838",
         "menu.selectionBackground": "#424242",
         "list.hoverBackground": "#424242",
 

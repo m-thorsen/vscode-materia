@@ -140,7 +140,7 @@
         {
             "name": "Dark gray",
             "settings": {
-                "foreground": "#757575"
+                "foreground": "#808080"
             },
             "scope": [
                 "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
