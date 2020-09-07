@@ -297,6 +297,7 @@
                 "foreground": "#E57373"
             },
             "scope": [
+                "support.class.component.html",
                 "entity.name.tag",
                 "meta.tag.sgml",
                 "markup.deleted.git_gutter",
