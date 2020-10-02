@@ -4,6 +4,21 @@
     "type": "dark",
     "include": "./tokens-dark.json",
     "colors": {
+        // Terminal
+        "terminal.ansiWhite":"#9E9E9E",
+        "terminal.ansiBlue":"#3761A4",
+        "terminal.ansiBrightBlue":"#6C9AE5",
+        "terminal.ansiCyan":"#0097A7",
+        "terminal.ansiBrightCyan":"#26C6DA",
+        "terminal.ansiGreen":"#5a8744",
+        "terminal.ansiBrightGreen":"#88C36A",
+        "terminal.ansiMagenta":"#9C27B0",
+        "terminal.ansiBrightMagenta":"#CE93D8",
+        "terminal.ansiRed":"#B71C1C",
+        "terminal.ansiBrightRed":"#FF5252",
+        "terminal.ansiYellow":"#CC8820",
+        "terminal.ansiBrightYellow":"#FFCC80",
+
         // Bright blue #448AFF Blue A200
         "editorCursor.foreground": "#448AFF",
         "extensionButton.prominentBackground": "#448AFF",
