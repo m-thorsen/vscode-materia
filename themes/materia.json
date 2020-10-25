@@ -92,10 +92,6 @@
         "editorOverviewRuler.border": "#383838",
         "editorIndentGuide.background": "#383838",
 
-        // picked colors deviate in Gnome/electron 3.0:
-        // #2C2C2C => 282828,
-        // #282828 => 232323,
-        // #212121 => 1B1B1B
 
         "statusBar.noFolderBackground": "#2C2C2C",
         "editorWidget.background": "#2C2C2C",
@@ -109,23 +105,23 @@
         "editorGroup.emptyBackground": "#2C2C2C",
         "statusBarItem.hoverBackground": "#2C2C2C",
 
-        "editorGroupHeader.tabsBorder": "#212121",
-		"editor.lineHighlightBackground": "#212121",
-        "peekViewResult.selectionBackground": "#212121",
-        "peekViewTitle.background": "#212121",
-        "peekViewEditor.background": "#212121",
-		"peekViewResult.background": "#212121",
-        "editorSuggestWidget.background": "#212121",
-        "editorHoverWidget.background": "#212121",
+        "editorGroupHeader.tabsBorder": "#242424",
+		"editor.lineHighlightBackground": "#242424",
+        "peekViewResult.selectionBackground": "#242424",
+        "peekViewTitle.background": "#242424",
+        "peekViewEditor.background": "#242424",
+		"peekViewResult.background": "#242424",
+        "editorSuggestWidget.background": "#242424",
+        "editorHoverWidget.background": "#242424",
 
-        "titleBar.border": "#212121",
-        "editorGroup.border": "#212121",
-        "sideBar.border": "#212121",
-        "panel.border": "#212121",
-        "statusBar.border": "#212121",
-        "editorHoverWidget.border": "#212121",
-		"editorSuggestWidget.border": "#212121",
-        "peekView.border": "#212121",
+        "titleBar.border": "#242424",
+        "editorGroup.border": "#242424",
+        "sideBar.border": "#242424",
+        "panel.border": "#242424",
+        "statusBar.border": "#242424",
+        "editorHoverWidget.border": "#242424",
+		"editorSuggestWidget.border": "#242424",
+        "peekView.border": "#242424",
 
         // Ignored/transparent
         "statusBarItem.remoteBackground": "#00000000",
