@@ -124,7 +124,7 @@
         {
             "name": "Medium gray",
             "settings": {
-                "foreground": "#999999"
+                "foreground": "#9E9E9E"
             },
             "scope": [
                 "support.type.vendored.property-name.css",
@@ -140,7 +140,7 @@
         {
             "name": "Dark gray",
             "settings": {
-                "foreground": "#808080"
+                "foreground": "#757575"
             },
             "scope": [
                 "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
@@ -255,6 +255,7 @@
                 "constant.other.class.php",
                 "meta.function.parameter.typehinted.php storage.type.php",
                 "entity.name",
+                "entity.other.attribute-name",
                 "support.type",
                 "support.class",
                 "support.orther.namespace.use.php",
@@ -264,16 +265,38 @@
                 "support.type.sys-types",
                 "support.variable.dom.js",
                 "support.constant",
-                "entity.other.attribute-name",
                 "constant.other.reference.link.markdown",
+            ]
+        },
+        {
+            "name": "Red",
+            "settings": {
+                "foreground": "#F07178"
+            },
+            "scope": [
+                // "support.class.component.html",
+                "entity.name.tag",
+                "meta.tag.sgml",
+                "markup.deleted.git_gutter",
+                "source.cpp meta.block variable.other",
+                "support.other.variable",
+                "string.other.link",
+                "markup.bold",
+                "markup.bold string",
+                "markup.bold markup.italic",
+                "markup.italic markup.bold",
+                "markup.bold markup.italic string",
+                "markup.italic markup.bold string",
+                "punctuation.definition.bold.markdown",
             ]
         },
         {
             "name": "Orange",
             "settings": {
-                "foreground": "#FF8A65"
+                "foreground": "#FF9E80"
             },
             "scope": [
+                "support.class.component.html",
                 "constant.numeric",
                 "constant.language",
                 "support.constant",
@@ -289,28 +312,6 @@
                 "markup.underline",
                 "markup.heading | markup.heading entity.name",
                 "markup.heading.markdown punctuation.definition.heading.markdown",
-            ]
-        },
-        {
-            "name": "Red",
-            "settings": {
-                "foreground": "#E57373"
-            },
-            "scope": [
-                "support.class.component.html",
-                "entity.name.tag",
-                "meta.tag.sgml",
-                "markup.deleted.git_gutter",
-                "source.cpp meta.block variable.other",
-                "support.other.variable",
-                "string.other.link",
-                "markup.bold",
-                "markup.bold string",
-                "markup.bold markup.italic",
-                "markup.italic markup.bold",
-                "markup.bold markup.italic string",
-                "markup.italic markup.bold string",
-                "punctuation.definition.bold.markdown",
             ]
         },
         {
