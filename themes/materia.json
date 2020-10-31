@@ -105,7 +105,6 @@
         "statusBarItem.hoverBackground": "#2D2D2D",
 
         "editorGroupHeader.tabsBorder": "#2D2D2D",
-		"editor.lineHighlightBackground": "#2D2D2D",
         "peekViewResult.selectionBackground": "#2D2D2D",
         "peekViewTitle.background": "#2D2D2D",
         "peekViewEditor.background": "#2D2D2D",

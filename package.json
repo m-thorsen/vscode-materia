@@ -2,7 +2,7 @@
 	"name": "vscode-materia",
 	"displayName": "Materia",
 	"description": "A neutral material theme",
-	"version": "0.5.3",
+	"version": "0.5.4",
 	"publisher": "m-thorsen",
 	"license": "MIT",
 	"engines": {
