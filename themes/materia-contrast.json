@@ -5,8 +5,8 @@
     "include": "./materia.json",
     "colors": {
         "editorRuler.foreground": "#303030",
+
         "editor.background": "#242424",
-        "terminal.background": "#242424",
-        "editor.lineHighlightBackground": "#1E1E1E"
+        "editor.lineHighlightBackground": "#181818"
     }
 }
