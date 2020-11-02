@@ -2,7 +2,7 @@
 	"name": "vscode-materia",
 	"displayName": "Materia",
 	"description": "A neutral material theme",
-	"version": "0.6.0",
+	"version": "0.6.1",
 	"publisher": "m-thorsen",
 	"license": "MIT",
 	"engines": {
@@ -25,9 +25,9 @@
 				"path": "./themes/materia-contrast.json"
             },
 			{
-				"label": "Materia Darker Contrast",
+				"label": "Materia Darker",
 				"uiTheme": "vs-dark",
-				"path": "./themes/materia-contrast.json"
+				"path": "./themes/materia-darker.json"
             },
 			{
 				"label": "Materia Darker Contrast",

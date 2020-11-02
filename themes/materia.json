@@ -19,41 +19,37 @@
         "terminal.ansiYellow":"#CC8820",
         "terminal.ansiBrightYellow":"#FFCC80",
 
-        // Bright blue #448AFF Blue A200
-        "editorCursor.foreground": "#448AFF",
-        "extensionButton.prominentBackground": "#448AFF",
-        "extensionButton.prominentHoverBackground": "#448AFF",
-		"activityBarBadge.background": "#448AFF",
-        "badge.background": "#448AFF",
-        "pickerGroup.foreground": "#448AFF",
-        "editorSuggestWidget.highlightForeground": "#448AFF",
-        "list.highlightForeground": "#448AFF",
-        "button.hoverBackground": "#448AFF",
+        "activityBarBadge.foreground": "#181818",
+        "badge.foreground": "#181818",
 
-        // Dark blue #4285f450 Blue A200 @32%
-        "button.background": "#448AFF50",
-        "list.focusBackground": "#448AFF50",
-        "list.activeSelectionBackground": "#448AFF50",
-        "inputOption.activeBackground": "#448AFF50",
+        "pickerGroup.foreground": "#8ab4f8",
+        "editorSuggestWidget.highlightForeground": "#8ab4f8",
+        "list.highlightForeground": "#8ab4f8",
 
-		"selection.background": "#448AFF50",
-        "editor.selectionBackground": "#448AFF50",
+        "button.background": "#424853",
+        "list.focusBackground": "#424853",
+        "list.activeSelectionBackground": "#424853",
+        "inputOption.activeBackground": "#424853",
+
+        "button.hoverBackground": "#485160",
+
+        "list.focusForeground": "#8ab4f8",
+        "button.foreground": "#8ab4f8",
+        "list.activeSelectionForeground": "#8ab4f8",
+        "inputOption.activeForeground": "#8ab4f8",
+        "editorCursor.foreground": "#8ab4f8",
+        "activityBarBadge.background": "#8ab4f8",
+        "badge.background": "#8ab4f8",
+
+		"selection.background": "#3168a050",
+        "editor.selectionBackground": "#3168a050",
+
+        "extensionButton.prominentBackground": "#5a8744",
+        "extensionButton.prominentHoverBackground": "#88C36A",
 
         // Grays
-        "activityBarBadge.foreground": "#FFFFFF",
-        "badge.foreground": "#FFFFFF",
-        "tab.activeBorder": "#FFFFFF",
-
-        "tab.activeForeground": "#E0E0E0",
-        "tab.unfocusedActiveForeground": "#BDBDBD",
-        "tab.inactiveForeground": "#9E9E9E",
-        "tab.unfocusedInactiveForeground": "#757575",
-
-        "editor.foreground": "#BDBDBD",
-        "titleBar.activeForeground": "#BDBDBD",
-        "input.foreground": "#BDBDBD",
-        "list.activeSelectionForeground": "#BDBDBD",
-        "list.focusForeground": "#BDBDBD",
+        "tab.activeBorder": "#8ab4f8",
+        "panelTitle.activeBorder": "#8ab4f8",
 
         "titleBar.inactiveForeground": "#9E9E9E",
         "quickInput.foreground": "#9E9E9E",
