@@ -1,12 +1,13 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "materia-ciontrast-darker",
+    "name": "materia-darker-contrast",
     "type": "dark",
     "include": "./materia.json",
     "colors": {
         "editorRuler.foreground": "#2C2C2C",
         "titleBar.activeBackground": "#2C2C2C",
         "titleBar.inactiveBackground": "#2C2C2C",
+        "panel.border": "#2C2C2C",
 
         "statusBar.noFolderBackground": "#252525",
         "editorWidget.background": "#252525",
@@ -14,13 +15,12 @@
         "activityBar.background": "#252525",
         "sideBar.background": "#252525",
         "statusBar.background": "#252525",
-        "panel.background": "#252525",
         "editorGroupHeader.tabsBackground": "#252525",
         "editorGroup.emptyBackground": "#252525",
         "statusBarItem.hoverBackground": "#252525",
 
-        "editor.background": "#1E1E1E",
-        "terminal.background": "#1E1E1E",
+        "editor.background": "#212121",
+        "panel.background": "#212121",
 
         "editor.lineHighlightBackground": "#181818",
     }
