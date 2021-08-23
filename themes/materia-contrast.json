@@ -9,8 +9,19 @@
         // #282828 => 232323,
         // #212121 => 1B1B1B
 
-        "editorRuler.foreground": "#323232",
-        "editor.background": "#282828",
-        "terminal.background": "#282828"
+        "editorRuler.foreground": "#232323",
+        "editor.background": "#1b1b1b",
+        "terminal.background": "#1b1b1b",
+        
+        "statusBar.noFolderBackground": "#232323",
+        "editorWidget.background": "#232323",
+        "editorWidget.border": "#232323",
+        "activityBar.background": "#232323",
+        "sideBar.background": "#232323",
+        "statusBar.background": "#232323",
+        "panel.background": "#232323",
+        "editorGroupHeader.tabsBackground": "#232323",
+        "editorGroup.emptyBackground": "#232323",
+        "statusBarItem.hoverBackground": "#232323"
     }
 }
