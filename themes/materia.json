@@ -8,38 +8,32 @@
         "editorCursor.foreground": "#448AFF",
         "extensionButton.prominentBackground": "#448AFF",
         "extensionButton.prominentHoverBackground": "#448AFF",
-		"activityBarBadge.background": "#448AFF",
+        "activityBarBadge.background": "#448AFF",
         "badge.background": "#448AFF",
         "pickerGroup.foreground": "#448AFF",
         "editorSuggestWidget.highlightForeground": "#448AFF",
         "list.highlightForeground": "#448AFF",
         "button.hoverBackground": "#448AFF",
-
         // Dark blue #4285f450 Blue A200 @32%
         "button.background": "#448AFF50",
         "list.focusBackground": "#448AFF50",
         "list.activeSelectionBackground": "#448AFF50",
         "inputOption.activeBackground": "#448AFF50",
-
-		"selection.background": "#448AFF50",
+        "selection.background": "#448AFF50",
         "editor.selectionBackground": "#448AFF50",
-
         // Grays
         "activityBarBadge.foreground": "#FFFFFF",
         "badge.foreground": "#FFFFFF",
         "tab.activeBorder": "#FFFFFF",
-
         "tab.activeForeground": "#E0E0E0",
         "tab.unfocusedActiveForeground": "#BDBDBD",
         "tab.inactiveForeground": "#9E9E9E",
         "tab.unfocusedInactiveForeground": "#757575",
-
         "editor.foreground": "#BDBDBD",
         "titleBar.activeForeground": "#BDBDBD",
         "input.foreground": "#BDBDBD",
         "list.activeSelectionForeground": "#BDBDBD",
         "list.focusForeground": "#BDBDBD",
-
         "titleBar.inactiveForeground": "#9E9E9E",
         "quickInput.foreground": "#9E9E9E",
         "sideBar.foreground": "#9E9E9E",
@@ -47,11 +41,8 @@
         "statusBarItem.remoteForeground": "#9E9E9E",
         "activityBar.foreground": "#9E9E9E",
         "editorLineNumber.activeForeground": "#9E9E9E",
-
         "input.placeholderForeground": "#757575",
-
         "gitDecoration.ignoredResourceForeground": "#616161",
-
         "pickerGroup.border": "#424242",
         "focusBorder": "#424242",
         "editorLineNumber.foreground": "#424242",
@@ -61,7 +52,6 @@
         "scrollbarSlider.hoverBackground": "#424242",
         "menu.selectionBackground": "#424242",
         "list.hoverBackground": "#424242",
-
         "list.inactiveSelectionBackground": "#383838",
         "editorSuggestWidget.selectedBackground": "#383838",
         "editorIndentGuide.activeBackground": "#383838",
@@ -73,15 +63,12 @@
         "dropdown.background": "#383838",
         "titleBar.activeBackground": "#383838",
         "titleBar.inactiveBackground": "#383838",
-
         "editorOverviewRuler.border": "#383838",
         "editorIndentGuide.background": "#383838",
-
         // picked colors deviate in Gnome/electron 3.0:
         // #2C2C2C => 282828,
         // #282828 => 232323,
         // #212121 => 1B1B1B
-
         "statusBar.noFolderBackground": "#2C2C2C",
         "editorWidget.background": "#2C2C2C",
         "editorWidget.border": "#2C2C2C",
@@ -93,25 +80,22 @@
         "editorGroupHeader.tabsBackground": "#2C2C2C",
         "editorGroup.emptyBackground": "#2C2C2C",
         "statusBarItem.hoverBackground": "#2C2C2C",
-
         "editorGroupHeader.tabsBorder": "#212121",
-		"editor.lineHighlightBackground": "#212121",
+        "editor.lineHighlightBackground": "#212121",
         "peekViewResult.selectionBackground": "#212121",
         "peekViewTitle.background": "#212121",
         "peekViewEditor.background": "#212121",
-		"peekViewResult.background": "#212121",
+        "peekViewResult.background": "#212121",
         "editorSuggestWidget.background": "#212121",
         "editorHoverWidget.background": "#212121",
-
         "titleBar.border": "#212121",
         "editorGroup.border": "#212121",
         "sideBar.border": "#212121",
         "panel.border": "#212121",
         "statusBar.border": "#212121",
         "editorHoverWidget.border": "#212121",
-		"editorSuggestWidget.border": "#212121",
+        "editorSuggestWidget.border": "#212121",
         "peekView.border": "#212121",
-
         // Ignored/transparent
         "statusBarItem.remoteBackground": "#00000000",
         "sideBarSectionHeader.background": "#00000000",
