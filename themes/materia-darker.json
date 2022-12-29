@@ -4,33 +4,10 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "editorRuler.foreground": "#2D2D2D",
-        "titleBar.activeBackground": "#2D2D2D",
-        "titleBar.inactiveBackground": "#2D2D2D",
-
-        "statusBar.noFolderBackground": "#282828",
-        "editorWidget.background": "#282828",
-        "editorWidget.border": "#282828",
         "activityBar.background": "#282828",
         "sideBar.background": "#282828",
         "statusBar.background": "#282828",
-        "editorGroupHeader.tabsBackground": "#282828",
-        "editorGroup.emptyBackground": "#282828",
-        "statusBarItem.hoverBackground": "#282828",
         "editor.background": "#282828",
         "panel.background": "#282828",
-
-        "panel.border": "#212121",
-        "titleBar.border": "#212121",
-        "editorGroup.border": "#212121",
-        "sideBar.border": "#212121",
-        "statusBar.border": "#212121",
-        "activityBar.border": "#212121",
-        "editorHoverWidget.border": "#212121",
-		"editorSuggestWidget.border": "#212121",
-        "editorGroupHeader.border": "#212121",
-        "peekView.border": "#212121",
-
-        "editor.lineHighlightBackground": "#181818"
     }
 }

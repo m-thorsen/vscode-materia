@@ -1,48 +1,48 @@
 {
-	"name": "vscode-materia",
-	"displayName": "Materia",
-	"description": "A neutral material theme",
-	"version": "0.6.5",
-	"publisher": "m-thorsen",
-	"license": "MIT",
-	"engines": {
-		"vscode": "^1.51.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Materia",
-				"uiTheme": "vs-dark",
-				"path": "./themes/materia.json"
-			},
-			{
-				"label": "Materia Contrast",
-				"uiTheme": "vs-dark",
-				"path": "./themes/materia-contrast.json"
+    "name": "vscode-materia",
+    "displayName": "Materia",
+    "description": "A neutral material theme",
+    "version": "0.7.0",
+    "publisher": "m-thorsen",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Materia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materia.json"
             },
-			{
-				"label": "Materia Darker",
-				"uiTheme": "vs-dark",
-				"path": "./themes/materia-darker.json"
+            {
+                "label": "Materia Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materia-contrast.json"
             },
-			{
-				"label": "Materia Darker Contrast",
-				"uiTheme": "vs-dark",
-				"path": "./themes/materia-darker-contrast.json"
+            {
+                "label": "Materia Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materia-darker.json"
+            },
+            {
+                "label": "Materia Darker Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materia-darker-contrast.json"
             }
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/m-thorsen/vscode-materia"
-	},
-	"__metadata": {
-		"id": "a45d65e7-7768-450e-a774-7b3b28271472",
-		"publisherDisplayName": "Martin Thorsen",
-		"publisherId": "18cf6731-092d-4166-a4cc-81af1bae057a"
-	}
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m-thorsen/vscode-materia"
+    },
+    "__metadata": {
+        "id": "a45d65e7-7768-450e-a774-7b3b28271472",
+        "publisherDisplayName": "Martin Thorsen",
+        "publisherId": "18cf6731-092d-4166-a4cc-81af1bae057a"
+    }
 }

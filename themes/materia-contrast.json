@@ -4,12 +4,9 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "editorRuler.foreground": "#303030",
-        "editorGroup.emptyBackground": "#282828",
         "editor.background": "#282828",
         "panel.background": "#282828",
-        "panel.border": "#343434",
-        "sideBar.border": "#0000",
-        "editor.lineHighlightBackground": "#181818"
+        "panel.border": "#FFF2",
+        "editorGroup.border": "#FFF2",
     }
 }
