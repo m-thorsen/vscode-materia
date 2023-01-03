@@ -43,14 +43,15 @@
         "editorRuler.foreground": "#FFF1",
         "editor.selectionBackground": "#FFF1",
         // Dim
-        "editorLineNumber.foreground": "#FFF3",
-        "list.activeSelectionBackground": "#FFF3",
+        "editorLineNumber.foreground": "#FFF2",
+        "list.activeSelectionBackground": "#FFF2",
         // Gray
-        "titleBar.inactiveForeground": "#FFF8",
-        "quickInput.foreground": "#FFF8",
-        "sideBar.foreground": "#FFF8",
-        "statusBar.foreground": "#FFF8",
+        "titleBar.inactiveForeground": "#FFF7",
+        "quickInput.foreground": "#FFF7",
+        "sideBar.foreground": "#FFF7",
+        "statusBar.foreground": "#FFF7",
         "statusBarItem.remoteForeground": "#FFF8",
+        "editorLineNumber.activeForeground": "#FFF7",
         // Blue-30 - #0079ce
         // Blue-15 - #0092fa
         // Blue - #28A6FF
