@@ -4,8 +4,8 @@
     "type": "dark",
     "include": "./materia-darker.json",
     "colors": {
-        "editor.background": "#212121",
-        "panel.background": "#212121",
+        "editor.background": "#1E1E1E",
+        "panel.background": "#1E1E1E",
         "panel.border": "#FFF2",
         "editorGroup.border": "#FFF2",
     }

@@ -19,11 +19,11 @@
         "terminal.ansiYellow": "#CC8820",
         "terminal.ansiBrightYellow": "#FFCC80",
         // Backgrounds
-        "activityBar.background": "#2D2D2D",
-        "sideBar.background": "#2D2D2D",
-        "statusBar.background": "#2D2D2D",
-        "editor.background": "#2D2D2D",
-        "panel.background": "#2D2D2D",
+        "activityBar.background": "#252526",
+        "sideBar.background": "#252526",
+        "statusBar.background": "#252526",
+        "editor.background": "#252526",
+        "panel.background": "#252526",
         // Void/transparent
         "terminal.border": "#0000",
         "statusBarItem.remoteBackground": "#0000",
@@ -57,5 +57,6 @@
         // Blue - #28A6FF
         "tab.activeBorder": "#28A6FF",
         "panelTitle.activeBorder": "#28A6FF",
+        "activityBar.activeBorder": "#28A6FF"
     }
 }
