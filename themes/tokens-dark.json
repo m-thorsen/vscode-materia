@@ -1,7 +1,7 @@
 {
-    "$schema": "vscode://schemas/color-theme",
-    "name": "tokens",
-    "tokenColors": [
+	"$schema": "vscode://schemas/color-theme",
+	"name": "tokens",
+	"tokenColors": [
 		{
 			"name": "punctuation.definition.block.sequence.item.yaml",
 			"scope": "punctuation.definition.block.sequence.item.yaml",
