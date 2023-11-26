@@ -22,6 +22,9 @@
         "panel.background": "#232323",
         "editorGroupHeader.tabsBackground": "#232323",
         "editorGroup.emptyBackground": "#232323",
-        "statusBarItem.hoverBackground": "#232323"
+        "statusBarItem.hoverBackground": "#232323",
+        "titleBar.activeBackground": "#181818",
+        "titleBar.inactiveBackground": "#232323",
+        "titleBar.activeForeground":"#ffffff"
     }
 }
