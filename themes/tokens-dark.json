@@ -201,6 +201,9 @@
                 "constant.character.escape",
                 "markup.italic",
                 "punctuation.definition.italic.markdown",
+                "source.vue invalid.illegal.character-not-allowed-here.html",
+                "source.vue punctuation.definition.tag.begin.html",
+                "source.vue punctuation.definition.tag.end.html"
             ]
         },
         {

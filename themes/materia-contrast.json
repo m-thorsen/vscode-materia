@@ -4,9 +4,11 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "editor.background": "#252526",
-        "panel.background": "#252526",
-        "panel.border": "#FFF2",
-        "editorGroup.border": "#FFF2",
+        "titleBar.activeBackground": "#303030",
+        "editor.background": "#222",
+        "panel.background": "#222",
+        "panel.border": "#333",
+        "editorGroup.border": "#333",
+        "editor.lineHighlightBackground": "#181818",
     }
 }

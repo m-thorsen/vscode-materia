@@ -4,10 +4,15 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "activityBar.background": "#252526",
-        "sideBar.background": "#252526",
-        "statusBar.background": "#252526",
-        "editor.background": "#252526",
-        "panel.background": "#252526",
+        "activityBar.background": "#222",
+        "sideBar.background": "#222",
+        "statusBar.background": "#222",
+        "editor.background": "#222",
+        "panel.background": "#222",
+        "titleBar.activeBackground": "#282828",
+        "panel.border": "#333",
+        "editorGroup.border": "#333",
+        "sideBar.border": "#333",
+        "editor.lineHighlightBackground": "#181818",
     }
 }

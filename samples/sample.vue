@@ -18,6 +18,9 @@
     <p v-else>
         Nothing left in the list. Add a new todo in the input above.
     </p>
+
+    <!-- Testing "illegally closed tags" -->
+    <div />
   </div>
 </template>
 

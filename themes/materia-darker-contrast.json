@@ -6,7 +6,9 @@
     "colors": {
         "editor.background": "#1E1E1E",
         "panel.background": "#1E1E1E",
-        "panel.border": "#FFF2",
-        "editorGroup.border": "#FFF2",
+        "editor.lineHighlightBackground": "#151515",
+        "panel.border": "#303030",
+        "editorGroup.border": "#303030",
+        "sideBar.border": "#303030",
     }
 }
