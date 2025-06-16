@@ -1,0 +1,21 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "materia-darker-contrast",
+    "type": "dark",
+    "include": "./materia.json",
+    "colors": {
+        // Backgrounds
+        "editor.lineHighlightBackground": "#080808",
+        "editor.background": "#141414",
+        "panel.background": "#141414",
+        "activityBar.background": "#1A1A1A",
+        "sideBar.background": "#1A1A1A",
+        "statusBar.background": "#1A1A1A",
+        "titleBar.activeBackground": "#222222",
+        // Borders
+        "panel.border": "#222222",
+        "editorGroup.border": "#222222",
+        "sideBar.border": "#222222",
+        "statusBar.border": "#222222",
+    }
+}

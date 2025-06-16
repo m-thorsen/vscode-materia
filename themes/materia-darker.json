@@ -4,15 +4,18 @@
     "type": "dark",
     "include": "./materia.json",
     "colors": {
-        "activityBar.background": "#222",
-        "sideBar.background": "#222",
-        "statusBar.background": "#222",
-        "editor.background": "#222",
-        "panel.background": "#222",
+        // Backgrounds
+        "editor.lineHighlightBackground": "#141414",
+        "editor.background": "#1A1A1A",
+        "panel.background": "#1A1A1A",
+        "activityBar.background": "#222222",
+        "sideBar.background": "#222222",
+        "statusBar.background": "#222222",
         "titleBar.activeBackground": "#282828",
-        "panel.border": "#333",
-        "editorGroup.border": "#333",
-        "sideBar.border": "#333",
-        "editor.lineHighlightBackground": "#181818",
+        // Borders
+        "panel.border": "#282828",
+        "editorGroup.border": "#282828",
+        "sideBar.border": "#282828",
+        "statusBar.border": "#282828",
     }
 }

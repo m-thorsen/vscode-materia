@@ -4,6 +4,46 @@
     "type": "dark",
     "include": "./tokens-dark.json",
     "colors": {
+        // Blue-30 - #0079ce
+        // Blue-15 - #0092fa
+        // Blue - #28A6FF
+        // Backgrounds
+        "editor.lineHighlightBackground": "#1A1A1A",
+        "editor.background": "#222222",
+        "panel.background": "#222222",
+        "activityBar.background": "#282828",
+        "sideBar.background": "#282828",
+        "statusBar.background": "#282828",
+        // Borders
+        "titleBar.activeBackground": "#333333",
+        "panel.border": "#333333",
+        "editorGroup.border": "#333333",
+        "sideBar.border": "#333333",
+        "statusBar.border": "#333333",
+        // Void/transparent
+        "terminal.border": "#0000",
+        "statusBarItem.remoteBackground": "#0000",
+        "sideBarSectionHeader.background": "#0000",
+        "tab.activeBackground": "#0000",
+        "tab.border": "#0000",
+        "tab.inactiveBackground": "#0000",
+        "editorGroupHeader.tabsBackground": "#0000",
+        // UI Mods
+        "focusBorder": "#FFF1",
+        "editorRuler.foreground": "#FFF1",
+        "editor.selectionBackground": "#FFF1",
+        "editorLineNumber.foreground": "#FFF2",
+        "list.activeSelectionBackground": "#FFF2",
+        "titleBar.inactiveForeground": "#FFF7",
+        "quickInput.foreground": "#FFF7",
+        "sideBar.foreground": "#FFF7",
+        "statusBar.foreground": "#FFF7",
+        "statusBarItem.remoteForeground": "#FFF8",
+        "editorLineNumber.activeForeground": "#FFF7",
+        // Blues
+        "tab.activeBorder": "#28A6FF",
+        "panelTitle.activeBorder": "#28A6FF",
+        "activityBar.activeBorder": "#28A6FF",
         // Terminal
         "terminal.ansiWhite": "#9E9E9E",
         "terminal.ansiBlue": "#3761A4",
@@ -18,46 +58,5 @@
         "terminal.ansiBrightRed": "#FF5252",
         "terminal.ansiYellow": "#CC8820",
         "terminal.ansiBrightYellow": "#FFCC80",
-        // Backgrounds
-        "activityBar.background": "#262626",
-        "sideBar.background": "#262626",
-        "statusBar.background": "#262626",
-        "editor.background": "#262626",
-        "panel.background": "#262626",
-        "titleBar.activeBackground": "#303030",
-        // Void/transparent
-        "terminal.border": "#0000",
-        "statusBarItem.remoteBackground": "#0000",
-        "sideBarSectionHeader.background": "#0000",
-        "tab.activeBackground": "#0000",
-        "tab.border": "#0000",
-        "tab.inactiveBackground": "#0000",
-        "editorGroupHeader.tabsBackground": "#0000",
-        // Slightly darker
-        "panel.border": "#111",
-        "sideBar.border": "#111",
-        "statusBar.border": "#111",
-        "editorGroup.border": "#111",
-        "editor.lineHighlightBackground": "#1e1e1e",
-        // Slightly lighter
-        "focusBorder": "#FFF1",
-        "editorRuler.foreground": "#FFF1",
-        "editor.selectionBackground": "#FFF1",
-        // Dim
-        "editorLineNumber.foreground": "#FFF2",
-        "list.activeSelectionBackground": "#FFF2",
-        // Gray
-        "titleBar.inactiveForeground": "#FFF7",
-        "quickInput.foreground": "#FFF7",
-        "sideBar.foreground": "#FFF7",
-        "statusBar.foreground": "#FFF7",
-        "statusBarItem.remoteForeground": "#FFF8",
-        "editorLineNumber.activeForeground": "#FFF7",
-        // Blue-30 - #0079ce
-        // Blue-15 - #0092fa
-        // Blue - #28A6FF
-        "tab.activeBorder": "#28A6FF",
-        "panelTitle.activeBorder": "#28A6FF",
-        "activityBar.activeBorder": "#28A6FF"
     }
 }
