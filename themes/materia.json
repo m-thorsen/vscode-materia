@@ -9,17 +9,17 @@
         // Blue - #28A6FF
         // Backgrounds
         "editor.lineHighlightBackground": "#1A1A1A",
-        "editor.background": "#222222",
-        "panel.background": "#222222",
-        "activityBar.background": "#282828",
-        "sideBar.background": "#282828",
-        "statusBar.background": "#282828",
+        "editor.background": "#242424",
+        "panel.background": "#242424",
+        "activityBar.background": "#272727",
+        "sideBar.background": "#272727",
+        "statusBar.background": "#272727",
         // Borders
-        "titleBar.activeBackground": "#333333",
-        "panel.border": "#333333",
-        "editorGroup.border": "#333333",
-        "sideBar.border": "#333333",
-        "statusBar.border": "#333333",
+        "titleBar.activeBackground": "#303030",
+        "panel.border": "#303030",
+        "editorGroup.border": "#303030",
+        "sideBar.border": "#303030",
+        "statusBar.border": "#303030",
         // Void/transparent
         "terminal.border": "#0000",
         "statusBarItem.remoteBackground": "#0000",

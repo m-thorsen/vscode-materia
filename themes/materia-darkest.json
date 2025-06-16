@@ -6,13 +6,13 @@
     "colors": {
         // Backgrounds
         "editor.lineHighlightBackground": "#080808",
-        "editor.background": "#141414",
-        "panel.background": "#141414",
+        "editor.background": "#161616",
+        "panel.background": "#161616",
         "activityBar.background": "#1A1A1A",
         "sideBar.background": "#1A1A1A",
         "statusBar.background": "#1A1A1A",
-        "titleBar.activeBackground": "#222222",
         // Borders
+        "titleBar.activeBackground": "#222222",
         "panel.border": "#222222",
         "editorGroup.border": "#222222",
         "sideBar.border": "#222222",

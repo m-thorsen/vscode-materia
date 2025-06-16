@@ -6,13 +6,13 @@
     "colors": {
         // Backgrounds
         "editor.lineHighlightBackground": "#141414",
-        "editor.background": "#1A1A1A",
-        "panel.background": "#1A1A1A",
-        "activityBar.background": "#222222",
-        "sideBar.background": "#222222",
-        "statusBar.background": "#222222",
-        "titleBar.activeBackground": "#282828",
+        "editor.background": "#1C1C1C",
+        "panel.background": "#1C1C1C",
+        "activityBar.background": "#202020",
+        "sideBar.background": "#202020",
+        "statusBar.background": "#202020",
         // Borders
+        "titleBar.activeBackground": "#282828",
         "panel.border": "#282828",
         "editorGroup.border": "#282828",
         "sideBar.border": "#282828",
