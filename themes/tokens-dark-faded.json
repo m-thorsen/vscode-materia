@@ -1,0 +1,335 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "tokens",
+  "tokenColors": [
+    {
+      "name": "italic",
+      "settings": {
+        "fontStyle": "italic",
+      },
+      "scope": [
+        "Keyword",
+        "Storage",
+        "comment",
+        "keyword.control",
+        "punctuation.definition.comment",
+        "punctuation.definition.block.tag.jsdoc",
+        "meta.other.type.phpdoc.php punctuation",
+        "entity.name.type.instance.jsdoc",
+        "punctuation.definition.bracket",
+        "variable.other.jsdoc",
+        "storage.type.class.jsdoc",
+        "comment.block.documentation.phpdoc.php keyword.other.phpdoc.php",
+        "comment.block.documentation.phpdoc.php punctuation.separator.inheritance.php",
+        "comment.block.documentation.phpdoc.php support.other.namespace.php",
+        "comment.block.documentation.phpdoc.php support.class",
+        "comment.block.documentation.phpdoc.php keyword.other",
+        "markup.italic",
+        "markup.quote markup.italic",
+        "markup.quote markup.italic punctuation.definition.italic.markdown",
+        "markup.quote markup.italic string",
+        "punctuation.definition.italic.markdown",
+        "variable.language",
+        "source.js constant.other.object.key.js string.unquoted.label.js",
+        "entity.other.attribute-name",
+        "invalid.deprecated.entity.other.attribute-name",
+        "tag.decorator.js entity.name.tag.js",
+        "tag.decorator.js punctuation.definition.tag.js",
+        "support.type.vendored.property-name.css",
+      ]
+    },
+    {
+      "name": "bold",
+      "settings": {
+        "fontStyle": "bold",
+      },
+      "scope": [
+        "meta.separator",
+        "markup.bold",
+        "markup.bold string",
+        "punctuation.definition.bold.markdown",
+        "markup.bold markup.italic",
+        "markup.italic markup.bold",
+        "markup.bold markup.italic string",
+        "markup.italic markup.bold string",
+        "markup.quote markup.bold",
+        "markup.quote markup.bold punctuation.definition.bold.markdown",
+        "markup.quote markup.bold string"
+      ]
+    },
+    {
+      "name": "Underline",
+      "settings": {
+        "fontStyle": "underline",
+      },
+      "scope": [
+        "*url*",
+        "*link*",
+        "*uri*",
+        "markup.underline",
+      ]
+    },
+    {
+      "name": "Normal",
+      "settings": {
+        "fontStyle": "",
+      },
+      "scope": [
+        "source.css entity.other.attribute-name",
+      ]
+    },
+    {
+      "name": "White",
+      "settings": {
+        "foreground": "#FFFFFF"
+      },
+      "scope": [
+        "constant.other.color",
+        "meta.selector.css",
+      ]
+    },
+    {
+      "name": "Lightest gray",
+      "settings": {
+        "foreground": "#EEEEEE"
+      },
+      "scope": [
+        "variable",
+        "support.variable",
+        "support.variable.property.js",
+        "string constant.other.placeholder",
+        "meta.object-literal.key.js",
+        "text.html.markdown",
+        "punctuation.definition.list_item.markdown",
+        "markup.table",
+      ]
+    },
+    {
+      "name": "Light gray",
+      "settings": {
+        "foreground": "#BDBDBD"
+      },
+      "scope": [
+        "meta.object-literal.key.js",
+        "source.css support.type.property-name",
+        "source.sass support.type.property-name",
+        "source.scss support.type.property-name",
+        "source.less support.type.property-name",
+        "source.stylus support.type.property-name",
+        "source.postcss support.type.property-name",
+        "support.type",
+      ]
+    },
+    {
+      "name": "Medium gray",
+      "settings": {
+        "foreground": "#9E9E9E"
+      },
+      "scope": [
+        "support.type.vendored.property-name.css",
+        "markup.quote",
+        "markup.quote markup.italic",
+        "markup.quote markup.italic punctuation.definition.italic.markdown",
+        "markup.quote markup.italic string",
+        "markup.quote markup.bold",
+        "markup.quote markup.bold punctuation.definition.bold.markdown",
+        "markup.quote markup.bold string",
+      ]
+    },
+    {
+      "name": "Dark gray",
+      "settings": {
+        "foreground": "#757575"
+      },
+      "scope": [
+        "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+        "text.html.markdown meta.dummy.line-break",
+        "markup.quote punctuation.definition.blockquote.markdown",
+        "variable.language.fenced.markdown",
+        "meta.separator",
+        "punctuation.definition.bracket",
+        "punctuation.definition.comment",
+        "comment",
+        "comment.block.documentation.js punctuation.definition.block.tag.jsdoc",
+        "comment.block.documentation.js entity.name.type.instance.jsdoc",
+        "comment.block.documentation.js storage.type.class.jsdoc",
+        "comment.block.documentation.js variable.other.jsdoc",
+        "comment.block.documentation.phpdoc.php punctuation",
+        "comment.block.documentation.phpdoc.php support",
+        "comment.block.documentation.phpdoc.php keyword",
+      ]
+    },
+    {
+      "name": "Green",
+      "settings": {
+        "foreground": "#AED581"
+      },
+      "scope": [
+        "string",
+        "constant.other.symbol",
+        "constant.other.key",
+        "entity.other.inherited-class",
+        "markup.heading",
+        "markup.inserted",
+        "markup.inserted.git_gutter",
+        "markup.fenced_code.block.markdown",
+        "markup.inline.raw.string.markdown",
+        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+      ]
+    },
+    {
+      "name": "Light cyan",
+      "settings": {
+        "foreground": "#80DEEA"
+      },
+      "scope": [
+        "constant.other.color",
+        "punctuation",
+        "meta.tag",
+        "punctuation.definition.tag",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "meta.array.literal.js",
+        "meta.brace.round.js",
+        "keyword.operator.logical.js",
+        "string.regexp",
+        "constant.character.escape",
+        "markup.italic",
+        "punctuation.definition.italic.markdown",
+        "source.vue invalid.illegal.character-not-allowed-here.html",
+        "source.vue punctuation.definition.tag.begin.html",
+        "source.vue punctuation.definition.tag.end.html"
+      ]
+    },
+    {
+      "name": "Purple",
+      "settings": {
+        "foreground": "#CE93D8"
+      },
+      "scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.other.phpdoc.php",
+        "keyword.other.function.use.php",
+        "storage.type",
+        "storage.modifier",
+        "markup.changed",
+        "markup.raw.block",
+        "text.html.markdown markup.inline.raw.markdown",
+        "string.other.link.description.title.markdown",
+        "beginning.punctuation.definition.list.markdown",
+      ]
+    },
+    {
+      "name": "Blue",
+      "settings": {
+        "foreground": "#82B1FF"
+      },
+      "scope": [
+        "entity.name.function",
+        "meta.function-call",
+        "variable.function",
+        "support.function",
+        "keyword.other.special-method",
+        "variable.function.constructor",
+        "source.sass keyword.control",
+        "string.other.link.title.markdown",
+        "entity.name.method.js",
+        "meta.class-method.js entity.name.function.js",
+        "tag.decorator.js entity.name.tag.js",
+        "tag.decorator.js punctuation.definition.tag.js",
+      ]
+    },
+    {
+      "name": "Yellow",
+      "settings": {
+        "foreground": "#FFCC80"
+      },
+      "scope": [
+        "entity.name",
+        "entity.other.attribute-name",
+        "support.type",
+        "support.class",
+        "markup.changed.git_gutter",
+        "support.type.sys-types",
+        "support.constant",
+        "constant.other.reference.link.markdown",
+        "support.orther.namespace.use.php",
+        "support.variable.dom.js",
+        "meta.use.php",
+        "support.other.namespace.php",
+        "constant.other.php",
+        "constant.other.class.php",
+        "meta.function.parameter.typehinted.php storage.type.php",
+        "source.vue invalid.deprecated.entity.other.attribute-name.html",
+      ]
+    },
+    {
+      "name": "Red",
+      "settings": {
+        "foreground": "#F07178"
+      },
+      "scope": [
+        "entity.name.tag",
+        "meta.tag.sgml",
+        "markup.deleted.git_gutter",
+        "source.cpp meta.block variable.other",
+        "support.other.variable",
+        "string.other.link",
+        "markup.bold",
+        "markup.bold string",
+        "markup.bold markup.italic",
+        "markup.italic markup.bold",
+        "markup.bold markup.italic string",
+        "markup.italic markup.bold string",
+        "punctuation.definition.bold.markdown",
+      ]
+    },
+    {
+      "name": "Orange",
+      "settings": {
+        "foreground": "#FF8A65"
+      },
+      "scope": [
+        "support.class.component.html",
+        "constant.numeric",
+        "constant.language",
+        "support.constant",
+        "variable.other.constant",
+        "constant.character",
+        "constant.escape",
+        "variable.parameter",
+        "keyword.other.unit",
+        "keyword.other",
+        "meta.function.parameters.php variable",
+        "meta.function.closure.use.php variable",
+        "markdown.heading",
+        "markup.underline",
+        "markup.heading | markup.heading entity.name",
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+      ]
+    },
+    {
+      "name": "Pink",
+      "settings": {
+        "foreground": "#FF4081"
+      },
+      "scope": [
+        "invalid",
+        "invalid.illegal",
+        "variable.parameter.function.language.special",
+        "entity.name.module.js",
+        "variable.import.parameter.js",
+        "variable.other.class.js",
+        "variable.language",
+        "markup.deleted",
+        "source.js constant.other.object.key.js string.unquoted.label.js",
+      ]
+    },
+  ]
+}

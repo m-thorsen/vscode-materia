@@ -1,6 +1,24 @@
 {
     "$schema": "vscode://schemas/color-theme",
     "name": "tokens",
+    "colors": {
+        "gitDecoration.modifiedResourceForeground": "#FC7",
+        "gitDecoration.addedResourceForeground": "#AD8",
+        "gitDecoration.deletedResourceForeground": "#F57",
+        "terminal.ansiWhite": "#EFF8",
+        "terminal.ansiBlue": "#46B",
+        "terminal.ansiBrightBlue": "#8AF",
+        "terminal.ansiCyan": "#18A",
+        "terminal.ansiBrightCyan": "#6CD",
+        "terminal.ansiGreen": "#584",
+        "terminal.ansiBrightGreen": "#AD8",
+        "terminal.ansiMagenta": "#93A",
+        "terminal.ansiBrightMagenta": "#C8D",
+        "terminal.ansiRed": "#A44",
+        "terminal.ansiBrightRed": "#F57",
+        "terminal.ansiYellow": "#A65",
+        "terminal.ansiBrightYellow": "#FC7",
+    },
     "tokenColors": [
         {
             "name": "italic",
@@ -81,7 +99,7 @@
         {
             "name": "White",
             "settings": {
-                "foreground": "#ffffff"
+                "foreground": "#FFF"
             },
             "scope": [
                 "constant.other.color",
@@ -91,7 +109,7 @@
         {
             "name": "Lightest gray",
             "settings": {
-                "foreground": "#EEEEEE"
+                "foreground": "#EFF"
             },
             "scope": [
                 "variable",
@@ -107,7 +125,7 @@
         {
             "name": "Light gray",
             "settings": {
-                "foreground": "#BDBDBD"
+                "foreground": "#EFFC"
             },
             "scope": [
                 "meta.object-literal.key.js",
@@ -123,7 +141,7 @@
         {
             "name": "Medium gray",
             "settings": {
-                "foreground": "#9E9E9E"
+                "foreground": "#EFF8"
             },
             "scope": [
                 "support.type.vendored.property-name.css",
@@ -139,7 +157,7 @@
         {
             "name": "Dark gray",
             "settings": {
-                "foreground": "#757575"
+                "foreground": "#EFF5"
             },
             "scope": [
                 "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
@@ -162,25 +180,25 @@
         {
             "name": "Green",
             "settings": {
-                "foreground": "#AED581"
+                "foreground": "#AD8"
             },
             "scope": [
                 "string",
                 "constant.other.symbol",
                 "constant.other.key",
-                "entity.other.inherited-class",
                 "markup.heading",
                 "markup.inserted",
                 "markup.inserted.git_gutter",
                 "markup.fenced_code.block.markdown",
                 "markup.inline.raw.string.markdown",
+                "entity.other.inherited-class",
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
             ]
         },
         {
             "name": "Light cyan",
             "settings": {
-                "foreground": "#80DEEA"
+                "foreground": "#8DF"
             },
             "scope": [
                 "constant.other.color",
@@ -209,7 +227,7 @@
         {
             "name": "Purple",
             "settings": {
-                "foreground": "#CE93D8"
+                "foreground": "#C8D"
             },
             "scope": [
                 "keyword",
@@ -220,8 +238,6 @@
                 "storage.modifier",
                 "markup.changed",
                 "markup.raw.block",
-                "invalid.deprecated",
-                // "invalid.deprecated.entity.other.attribute-name",
                 "text.html.markdown markup.inline.raw.markdown",
                 "string.other.link.description.title.markdown",
                 "beginning.punctuation.definition.list.markdown",
@@ -230,7 +246,7 @@
         {
             "name": "Blue",
             "settings": {
-                "foreground": "#82B1FF"
+                "foreground": "#8AF"
             },
             "scope": [
                 "entity.name.function",
@@ -238,42 +254,61 @@
                 "variable.function",
                 "support.function",
                 "keyword.other.special-method",
-                "entity.name.method.js",
-                "meta.class-method.js entity.name.function.js",
                 "variable.function.constructor",
                 "source.sass keyword.control",
+                "string.other.link.title.markdown",
+                "entity.name.method.js",
+                "meta.class-method.js entity.name.function.js",
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
-                "string.other.link.title.markdown",
             ]
         },
         {
             "name": "Yellow",
             "settings": {
-                "foreground": "#FFCC80"
+                "foreground": "#FC7"
             },
             "scope": [
-                "constant.other.php",
-                "constant.other.class.php",
-                "meta.function.parameter.typehinted.php storage.type.php",
                 "entity.name",
                 "entity.other.attribute-name",
                 "support.type",
                 "support.class",
-                "support.orther.namespace.use.php",
-                "meta.use.php",
-                "support.other.namespace.php",
                 "markup.changed.git_gutter",
                 "support.type.sys-types",
-                "support.variable.dom.js",
                 "support.constant",
                 "constant.other.reference.link.markdown",
+                "support.orther.namespace.use.php",
+                "support.variable.dom.js",
+                "meta.use.php",
+                "support.other.namespace.php",
+                "entity.other.inherited-class.php",
+                "constant.other.php",
+                "constant.other.class.php",
+                "meta.function.parameter.typehinted.php storage.type.php",
+                "source.vue invalid.deprecated.entity.other.attribute-name.html",
             ]
         },
         {
             "name": "Red",
             "settings": {
-                "foreground": "#F07178"
+                "foreground": "#F57"
+            },
+            "scope": [
+                "invalid",
+                "invalid.illegal",
+                "variable.parameter.function.language.special",
+                "entity.name.module.js",
+                "variable.import.parameter.js",
+                "variable.other.class.js",
+                "variable.language",
+                "markup.deleted",
+                "source.js constant.other.object.key.js string.unquoted.label.js",
+            ]
+        },
+        {
+            "name": "LightRed",
+            "settings": {
+                "foreground": "#E77"
             },
             "scope": [
                 "entity.name.tag",
@@ -294,7 +329,7 @@
         {
             "name": "Orange",
             "settings": {
-                "foreground": "#FF8A65"
+                "foreground": "#E86"
             },
             "scope": [
                 "support.class.component.html",
@@ -313,23 +348,6 @@
                 "markup.underline",
                 "markup.heading | markup.heading entity.name",
                 "markup.heading.markdown punctuation.definition.heading.markdown",
-            ]
-        },
-        {
-            "name": "Pink",
-            "settings": {
-                "foreground": "#FF4081"
-            },
-            "scope": [
-                "invalid",
-                "invalid.illegal",
-                "variable.parameter.function.language.special",
-                "entity.name.module.js",
-                "variable.import.parameter.js",
-                "variable.other.class.js",
-                "variable.language",
-                "markup.deleted",
-                "source.js constant.other.object.key.js string.unquoted.label.js",
             ]
         },
     ]

@@ -12,11 +12,13 @@
         :key="todo.id"
         :todo="todo"
         @remove="removeTodo"
+        align="left"
       />
     </ul>
 
+
     <p v-else>
-        Nothing left in the list. Add a new todo in the input above.
+      Nothing left in the list. Add a new todo in the input above.
     </p>
 
     <!-- Testing "illegally closed tags" -->
