@@ -329,7 +329,7 @@
         {
             "name": "Orange",
             "settings": {
-                "foreground": "#E86"
+                "foreground": "#F85"
             },
             "scope": [
                 "support.class.component.html",
