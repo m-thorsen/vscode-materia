@@ -40,8 +40,10 @@
         "tab.inactiveBackground": "#0000",
         "editorGroupHeader.tabsBackground": "#0000",
         // Blues
-        "tab.activeBorder": "#5BE",
+        "tab.activeBorder": "#8AF",
+        "panelTitle.activeBorder": "#8AF",
         "statusBarItem.remoteForeground": "#5BE",
-        "panelTitle.activeBorder": "#5BE",
+        "activityBarBadge.background": "#46B",
+        "button.background": "#46B"
     }
 }

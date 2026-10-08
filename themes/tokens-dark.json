@@ -6,8 +6,8 @@
         "gitDecoration.addedResourceForeground": "#AD8",
         "gitDecoration.deletedResourceForeground": "#F57",
         "terminal.ansiWhite": "#EFF8",
-        "terminal.ansiBlue": "#07C",
-        "terminal.ansiBrightBlue": "#5AE",
+        "terminal.ansiBlue": "#46B",
+        "terminal.ansiBrightBlue": "#8AF",
         "terminal.ansiCyan": "#18A",
         "terminal.ansiBrightCyan": "#6CD",
         "terminal.ansiGreen": "#584",
@@ -246,7 +246,7 @@
         {
             "name": "Blue",
             "settings": {
-                "foreground": "#5BE",
+                "foreground": "#8AF",
             },
             "scope": [
                 "entity.name.function",
