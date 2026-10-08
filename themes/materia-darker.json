@@ -5,14 +5,14 @@
     "include": "./materia.json",
     "colors": {
         // Backgrounds
-        "editor.lineHighlightBackground": "#141414",
+        "titleBar.activeBackground": "#242424",
+        "sideBar.background": "#242424",
+        "activityBar.background": "#242424",
+        "statusBar.background": "#242424",
         "editor.background": "#1C1C1C",
         "panel.background": "#1C1C1C",
-        "activityBar.background": "#202020",
-        "sideBar.background": "#202020",
-        "statusBar.background": "#202020",
+        "editor.lineHighlightBackground": "#0D0D0D",
         // Borders
-        "titleBar.activeBackground": "#282828",
         "panel.border": "#282828",
         "editorGroup.border": "#282828",
         "sideBar.border": "#282828",

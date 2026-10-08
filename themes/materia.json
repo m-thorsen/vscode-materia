@@ -4,46 +4,44 @@
     "type": "dark",
     "include": "./tokens-dark.json",
     "colors": {
-        // Blue-30 - #0079ce
-        // Blue-15 - #0092fa
-        // Blue - #28A6FF
+        // Blue - #07C
+        // BrightBlue - #5BE
         // Backgrounds
-        "editor.lineHighlightBackground": "#1A1A1A",
-        "editor.background": "#242424",
+        "titleBar.activeBackground": "#292929", // also the main app background
+        "sideBar.background": "#292929",
+        "activityBar.background": "#292929",
+        "statusBar.background": "#292929",
         "panel.background": "#242424",
-        "activityBar.background": "#272727",
-        "sideBar.background": "#272727",
-        "statusBar.background": "#272727",
+        "editor.background": "#242424",
+        "editor.lineHighlightBackground": "#1A1A1A",
         // Foregrounds
-        "editorRuler.foreground": "#EFF1",
-        "editor.selectionBackground": "#EFF1",
-        "editorLineNumber.foreground": "#EFF2",
-        "list.activeSelectionBackground": "#EFF2",
-        "titleBar.inactiveForeground": "#EFF7",
-        "quickInput.foreground": "#EFF7",
-        "sideBar.foreground": "#EFF8",
-        "statusBar.foreground": "#EFF7",
-        "statusBarItem.remoteForeground": "#EFF8",
-        "editorLineNumber.activeForeground": "#EFF7",
+        "tab.inactiveForeground": "#FFF7",
+        "editorRuler.foreground": "#FF1",
+        "editor.selectionBackground": "#FFF1",
+        "editorLineNumber.foreground": "#FFF2",
+        "list.activeSelectionBackground": "#FFF2",
+        "titleBar.inactiveForeground": "#FFF7",
+        "quickInput.foreground": "#FFF7",
+        "sideBar.foreground": "#FFF8",
+        "statusBar.foreground": "#FFF7",
+        "editorLineNumber.activeForeground": "#FFF7",
         "gitDecoration.ignoredResourceForeground": "#EFF5",
         // Borders
         "focusBorder": "#EFF1",
-        "titleBar.activeBackground": "#303030",
         "panel.border": "#303030",
         "editorGroup.border": "#303030",
         "sideBar.border": "#303030",
-        "statusBar.border": "#303030",
         // Void/transparent
+        "surface.border": "#0000",
         "terminal.border": "#0000",
+        "statusBar.border": "#0000",
         "statusBarItem.remoteBackground": "#0000",
         "sideBarSectionHeader.background": "#0000",
-        "tab.activeBackground": "#0000",
-        "tab.border": "#0000",
         "tab.inactiveBackground": "#0000",
         "editorGroupHeader.tabsBackground": "#0000",
         // Blues
-        "tab.activeBorder": "#28A6FF",
-        "panelTitle.activeBorder": "#28A6FF",
-        "activityBar.activeBorder": "#28A6FF",
+        "tab.activeBorder": "#5BE",
+        "statusBarItem.remoteForeground": "#5BE",
+        "panelTitle.activeBorder": "#5BE",
     }
 }
